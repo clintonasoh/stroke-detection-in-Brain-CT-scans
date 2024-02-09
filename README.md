@@ -12,7 +12,7 @@ To reproduce this project, follow the steps below:
 
 1. **Clone the Repository**
     ```
-    git clone https://github.com/clintonasoh/stroke-detection-in-CT-scans.git
+    git clone https://github.com/clintonasoh/stroke-detection-in-Brain-CT-scans.git
     ```
 
 2. **Install Dependencies**
